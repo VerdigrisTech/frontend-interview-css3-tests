@@ -8,6 +8,7 @@ Given the following HTML elements:
 <button>Button Caption</button>
 <input type="button" value="Input Button Caption">
 <input type="submit" value="Submit Button Caption">
+<a href="#">Anchor Button</a>
 ```
 
 Write CSS definitions to style the elements like the following:
