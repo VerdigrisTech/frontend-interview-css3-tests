@@ -2,7 +2,9 @@
 
 ## 1. Style an element from scratch
 
-First, open up `part1/index.html` and `part1/style.css`.
+First, clone this JSBin: https://jsbin.com/wufuhe/edit?html,css,output
+
+Please provide a share link of your clone to your interviewers for live streaming.
 
 Given the following HTML elements:
 
