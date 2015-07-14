@@ -17,7 +17,7 @@ Write CSS definitions to style the elements like the following:
 
 <img width="466" alt="screen shot 2015-07-13 at 2 45 11 pm" src="https://cloud.githubusercontent.com/assets/3170805/8661833/71b7e6a2-296f-11e5-97ac-4de5ca4d7aea.png">
 
-You may add CSS classes to the HTML elements themselves in `part1/index.html`.
+You may override the CSS classes for the HTML elements in `part1/index.html`.
 
 For example:
 
