@@ -1,0 +1,23 @@
+/* TODO: IMPLEMENT */
+
+/* Colors:
+ * Default Background: #f5f6f7;
+ * Default Border: #c8cdd5;
+ * Default Inset: #dee1e6;
+ * Default Text: #919baa;
+ * Default Pressed Background: #e0e3e6;
+ * Default Pressed Inset: #cbd0d5;
+ * Primary Background: #235a96;
+ * Primary Border: #102843;
+ * Primary Inset: #19416d;
+ */
+
+body {
+  background-color: #fff;
+  padding: 8px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h5 {
+  border-bottom: 1px solid #ccc;
+}
